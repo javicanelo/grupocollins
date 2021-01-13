@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans', 'sans-serif';
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+h5 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+a {
+    color: #E30613;  
+}
+a:hover {
+    color: #707070;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.linea {
+    height: 3px;
+    width: 70px;
+    background-color: #E30613;
+}
+
+.foto_edif {
+    width: 300px;
+}
+
+.bg-gris-footer {
+    background-color: #707070;
+}
